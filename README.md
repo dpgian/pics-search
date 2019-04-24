@@ -4,7 +4,10 @@ User types in a search term, the application fetchs a list of images from unspla
 
 ## Demo
 
+* [Live Demo](https://pics-search.netlify.com/)
+
 ![](https://media.giphy.com/media/dJLFFvovy028SFmxmx/giphy.gif)
+
 
 ## Built with
 
